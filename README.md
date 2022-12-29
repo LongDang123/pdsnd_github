@@ -7,7 +7,7 @@
 PDSND Version Control
 
 ### Description
-Describe what your project is about and what it does
+This project will describe how we learn to control the version of a resource
 
 ### Files used
 Include the files used

@@ -10,9 +10,12 @@ PDSND Version Control
 This project will describe how we learn to control the version of a resource
 
 ### Files used
+**data file**
 chicago.csv
 new_york_city.csv
 washington.csv
+**python file**
+bikeshare_2.py
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
